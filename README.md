@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Wesley</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=HTML+%7C+CSS+%7C+JS+%7C+React+%7C+Node.js" alt="Typing SVG"/>
@@ -12,7 +12,7 @@
 ---
 
 ### About Me
-I am a Front-end Developer with a degree in Systems Analysis and Development, focused on creating modern and functional interfaces. I have experience with HTML, CSS, and JavaScript, am deepening my knowledge in React, and explore tools such as Node.js, Lua, VS Code, Photoshop, Git, and Windows (for VPS and remote support) in various projects. I reside in São Paulo, Brazil, and my passion for technology drives me to seek innovative solutions and continuously improve my skills.
+I am a Web Developer with a degree in Systems Analysis and Development, focused on creating modern and functional interfaces. I have experience with HTML, CSS, and JavaScript, am deepening my knowledge in React, and explore tools such as Node.js, Lua, VS Code, Photoshop, Git, and Windows (for VPS and remote support) in various projects. I reside in São Paulo, Brazil, and my passion for technology drives me to seek innovative solutions and continuously improve my skills.
 
 ---
 
